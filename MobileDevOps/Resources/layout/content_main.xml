@@ -11,6 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="Hello World! This is Lawrence's first Mobile App created using App Center." />
+        android:text="Hello World! This is Lawrence's first Mobile App created using App Center Build Services." />
+        android:text="LAWRENCE is using Build Service to comnnect to his Github remote repository." />
 
 </RelativeLayout>
